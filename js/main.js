@@ -136,14 +136,12 @@ jQuery(
         },
         series: [
           {
-            name: "Delivered amount",
+            name: "Percentage",
             data: [
-              ["Presale 20%", 7.2],
-              ["Reserve 10%", 3.6],
-              ["Token Sale 50%", 18],
-              ["Bounties 10%", 3.6],
-              ["Dispensaries 5%", 1.8],
-              ["Advisory Board 5%", 10.1],
+              ["Team 5%", 5],
+              ["Liquidity 80%", 80],
+              ["KOL's 5%", 5],
+              ["CEX LISTING 10%", 10],
             ],
           },
         ],
