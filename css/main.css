@@ -2248,21 +2248,21 @@ button.icon-btn:hover {
 }
 
 .highcharts-point.highcharts-color-0 {
-  fill: #7cb5ec;
+  fill: #adff33;
 }
 
 .highcharts-data-label-connector.highcharts-color-0 {
-  stroke: #7cb5ec;
+  stroke: #fff;
 }
 
 .highcharts-3d-side.highcharts-point.highcharts-color-0 {
-  fill: #639cd3;
-  stroke: #639cd3;
+  fill: #adff33;
+  stroke: #fff;
 }
 
 .highcharts-point.highcharts-color-1 {
-  /* fill: #4039d4; */
-  stroke: #4039d4;
+  fill: #066000;
+  stroke: #fff;
 }
 
 .highcharts-tooltip-box {
@@ -2276,40 +2276,40 @@ button.icon-btn:hover {
 }
 
 .highcharts-data-label-connector.highcharts-color-1 {
-  stroke: #4039d4;
+  stroke: #fff;
 }
 
 .highcharts-3d-side.highcharts-point.highcharts-color-1 {
-  fill: #2b25a1;
-  stroke: #2b25a1;
+  fill: #000;
+  stroke: #000;
 }
 
 .highcharts-point.highcharts-color-2 {
-  fill: #b492e9;
-  stroke: #b492e9;
+  fill: #82d400;
+  stroke: #fff;
 }
 
 .highcharts-data-label-connector.highcharts-color-2 {
-  stroke: #b492e9;
+  stroke: #fff;
 }
 
 .highcharts-3d-side.highcharts-point.highcharts-color-2 {
-  fill: #926ccd;
-  stroke: #926ccd;
+  fill: #82d400;
+  stroke: #fff;
 }
 
 .highcharts-point.highcharts-color-3 {
-  fill: #403aa3;
-  stroke: #403aa3;
+  fill: #58b800;
+  stroke: #fff;
 }
 
 .highcharts-data-label-connector.highcharts-color-3 {
-  stroke: #403aa3;
+  stroke: #fff;
 }
 
 .highcharts-3d-side.highcharts-point.highcharts-color-3 {
-  fill: #332d93;
-  stroke: #332d93;
+  fill: #58b800;
+  stroke: #fff;
 }
 
 .highcharts-point.highcharts-color-4 {
