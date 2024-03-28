@@ -428,3 +428,17 @@ jQuery(
     loader();
   })(jQuery)
 );
+document
+  .getElementById("newsletter-form")
+  .addEventListener("submit", function (event) {
+    event.preventDefault(); // Prevent form submission
+    var email = document.getElementById("email-input").value; // Get the entered email
+    // Here, you can perform additional validation before proceeding with form submission
+
+    // Display a message to the user
+    var messageContainer = document.getElementById("message");
+    messageContainer.innerHTML = "Thank you for signing up!";
+
+    // Clear the email input field
+    document.getElementById("email-input").value = "";
+  });
