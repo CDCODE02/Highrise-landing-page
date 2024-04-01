@@ -1745,6 +1745,9 @@ button.icon-btn:hover {
   border-radius: 0;
   max-width: 28%;
 }
+.d-block img {
+  max-width: 28%;
+}
 
 .navbar button .toggler-icon-bar {
   -webkit-transition: all 0.5s;
@@ -3288,7 +3291,7 @@ footer {
 }
 
 .page-footer img {
-  max-width: 100%;
+  max-width: 28%;
   margin-bottom: 4rem;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
