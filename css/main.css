@@ -1743,6 +1743,7 @@ button.icon-btn:hover {
   -moz-border-radius: 0;
   -ms-border-radius: 0;
   border-radius: 0;
+  max-width: 28%;
 }
 
 .navbar button .toggler-icon-bar {
